@@ -10,6 +10,8 @@ print(data)
 data_amanha = data + datetime.timedelta(days=1)
 print(data_amanha)
 
+#### https://stackoverflow.com/questions/6871016/adding-days-to-a-date-in-python
+
 
 
 
